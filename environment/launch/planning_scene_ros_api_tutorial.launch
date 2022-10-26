@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="creating_environment" pkg="environment" type="creating_environment" respawn="false" output="screen">
+  </node>
+
+</launch>

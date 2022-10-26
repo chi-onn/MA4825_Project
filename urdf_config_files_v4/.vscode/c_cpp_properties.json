@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/chionn/moveit_ws/devel/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/chionn/moveit_ws/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/chionn/moveit_ws/src/dynamixel-workbench/dynamixel_workbench_controllers/include/**",
+        "/home/chionn/moveit_ws/src/dynamixel-workbench/dynamixel_workbench_operators/include/**",
+        "/home/chionn/moveit_ws/src/dynamixel-workbench/dynamixel_workbench_toolbox/include/**",
+        "/home/chionn/moveit_ws/src/geometric_shapes/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/chionn/moveit_ws/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_ros/move_group/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_setup_assistant/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/chionn/moveit_ws/src/moveit_visual_tools/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/chionn/moveit_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/chionn/moveit_ws/src/rviz_visual_tools/include/**",
+        "/home/chionn/moveit_ws/src/srdfdom/include/**",
+        "/home/chionn/moveit_ws/src/xarm_ros/xarm_api/include/**",
+        "/home/chionn/moveit_ws/src/xarm_ros/xarm_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
